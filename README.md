@@ -1,7 +1,7 @@
 # PurposePay 
 
 # On/Off Ramp Platform
-This ws my first attemptat fully vibe-coding a project.
+This was my first attempt at fully vibe-coding a project.
 
 A simple onramping and offramping platform with a React frontend and a Python (Flask) backend.
 
