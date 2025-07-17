@@ -1,4 +1,6 @@
-# PurposePay On/Off Ramp Platform
+# PurposePay 
+
+# On/Off Ramp Platform
 
 A simple onramping and offramping platform with a React frontend and a Python (Flask) backend.
 
